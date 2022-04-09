@@ -1,2 +1,2 @@
 # Extract---Text
-Este script é capaz de extrair textos de uma imagem.
+This script is able to extract texts from an image.
